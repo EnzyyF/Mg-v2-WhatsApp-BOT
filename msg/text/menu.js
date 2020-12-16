@@ -13,9 +13,9 @@ Silahkan donasi berapapun asalkan kamu ikhlas
 pembuat bot juga tidak mendapatkan keuntungan sepeserpun dari bot ini.
 
 ☕️ *Donasi* ☕️
-*PULSA / DANA / GOPAY / OVO*
+*PULSA / DANA / OVO*
 Semua Di sini : 
-[085236189413]
+[085155186544]
 
 Mau jadi user premium / join grup?
 Kirim foto/ss bukti donasi #min [no wa kamu]`
@@ -25,7 +25,7 @@ exports.textMenu = (pushname, tgl, moment) => {
     return `
 Hi, ${pushname} :) harap *BACA* *#rules* dan *#info* sebelum menggunakan bot
 
-🎀 *ᴍɢ ʙᴏᴛ ᴍᴇɴᴜ* 🎀
+🎀 *NZY BOT* 🎀
 
 📌 Semua perintah digunakan *tanpa tanda* [ *dan* ]
 
@@ -161,7 +161,7 @@ selalu cek limit kamu!!
 ⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻
 
 🛠 _*Menemukan bug? bot error? laporkan ke admin bot, kirim #bug [DESKRIPSI BUG]*_
-🛠 _*Mau Request fitur? kirim #req [DESKRIPSI FITUR]*_
+
 🛠 _*Mau Chat admin bot? kirim #min [PESAN KAMU]*_
 
 _ᴄᴏᴅᴇᴅ ᴡɪᴛʜ ❤ ꜰʀᴏᴍ ᴍᴀɢᴇʟᴀɴɢ_`
